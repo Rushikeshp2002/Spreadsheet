@@ -1,7 +1,7 @@
-To setup this project run these commands in terminal
-=> npm i
-=> npm install lucide-react
-=> 
+To setup this project run these commands in terminal <br>
+=> npm I <br>
+=> npm install lucide-react<br>
+
 
 
 # React + Vite
