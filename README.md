@@ -1,6 +1,30 @@
-To setup this project run these commands in terminal <br>
-=> npm I <br>
-=> npm install lucide-react<br>
+To setup this project run these commands in terminal
+=> npm i
+=> npm install lucide-react
+
+********************************************************************************************************************
+How to use Formula
+=> All formula should start with "="
+=> There are only two formula evaluation function
+    - SUM
+    - AVERAGE
+=> Both can be written in any case, be it lowercase or highercase
+=> Though Column names should be Capital
+=> Also To evaluate or run these formula in project, just double click on the cell where formula is written
+********************************************************************************************************************
+
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+Copy Selection & Pasting Selection
+=> Right now there no UI for how the selection of cell is captured though under the hood is captures the number of rows and columns and when you paste it you can see those values where copied.
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+
+-------------------------------------------------------------------------------
+Saving and Loading
+=> There's no option to name the file which we try to save in the sheet
+=> It get's saved as Spreadsheet.json in the computer by default
+-------------------------------------------------------------------------------
 
 
 
